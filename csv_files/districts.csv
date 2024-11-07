@@ -1,0 +1,324 @@
+loc_id,district_name,district_type
+0, Statewide , Statewide 
+1, Adams Township School District (31020) , LEA District 
+2, Addison Community Schools (46020) , LEA District 
+3, Adrian Public Schools (46010) , LEA District 
+4, AGBU Alex-Marie Manoogian School (63901) , PSA District 
+5, Airport Community Schools (58020) , LEA District 
+6, Algonac Community School District (74030) , LEA District 
+7, Allegan Public Schools (03030) , LEA District 
+8, Allendale Public Schools (70040) , LEA District 
+9, Alma Public Schools (29010) , LEA District 
+10, Almont Community Schools (44020) , LEA District 
+11, Alpena Public Schools (04010) , LEA District 
+12, Armada Area Schools (50050) , LEA District 
+13, Avondale School District (63070) , LEA District 
+14, Bad Axe Public Schools (32010) , LEA District 
+15, Bangor Township Schools (09030) , LEA District 
+16, Bark River-Harris School District (21090) , LEA District 
+17, Bath Community Schools (19100) , LEA District 
+18, Bay City School District (09010) , LEA District 
+19, Beal City Public Schools (37040) , LEA District 
+20, Beaverton Schools (26010) , LEA District 
+21, Belding Area School District (34080) , LEA District 
+22, Benzie County Central Schools (10015) , LEA District 
+23, Berkley School District (63050) , LEA District 
+24, Berrien Springs Public Schools (11240) , LEA District 
+25, Big Rapids Public Schools (54010) , LEA District 
+26, Birch Run Area Schools (73170) , LEA District 
+27, Birmingham Public Schools (63010) , LEA District 
+28, Black River Public School (70904) , PSA District 
+29, Blissfield Community Schools (46040) , LEA District 
+30, Bloomfield Hills Schools (63080) , LEA District 
+31, Boyne City Public Schools (15020) , LEA District 
+32, Brandon School District in the Counties of Oakland and Lapeer (63180) , LEA District 
+33, Breitung Township School District (22030) , LEA District 
+34, Bridgman Public Schools (11340) , LEA District 
+35, Bronson Community School District (12020) , LEA District 
+36, Buchanan Community Schools (11310) , LEA District 
+37, Bullock Creek School District (56020) , LEA District 
+38, Byron Area Schools (78020) , LEA District 
+39, Byron Center Public Schools (41040) , LEA District 
+40, Cadillac Area Public Schools (83010) , LEA District 
+41, Caledonia Community Schools (41050) , LEA District 
+42, Canton Preparatory High School (82711) , PSA District 
+43, Capac Community Schools (74040) , LEA District 
+44, Carman-Ainsworth Community Schools (25080) , LEA District 
+45, Caro Community Schools (79020) , LEA District 
+46, Cass City Public Schools (79030) , LEA District 
+47, Cedar Springs Public Schools (41070) , LEA District 
+48, Center Line Public Schools (50010) , LEA District 
+49, Central Montcalm Public Schools (59125) , LEA District 
+50, Cesar Chavez Academy (82918) , PSA District 
+51, Charlevoix Public Schools (15050) , LEA District 
+52, Charlotte Public Schools (23030) , LEA District 
+53, Charyl Stockwell Academy (47902) , PSA District 
+54, Cheboygan Area Schools (16015) , LEA District 
+55, Chelsea School District (81040) , LEA District 
+56, Chesaning Union Schools (73110) , LEA District 
+57, Chippewa Hills School District (54025) , LEA District 
+58, Clare Public Schools (18010) , LEA District 
+59, Clarenceville School District (63090) , LEA District 
+60, Clinton Community Schools (46060) , LEA District 
+61, Clio Area School District (25150) , LEA District 
+62, Coldwater Community Schools (12010) , LEA District 
+63, Coloma Community Schools (11330) , LEA District 
+64, Columbia School District (38040) , LEA District 
+65, Comstock Park Public Schools (41080) , LEA District 
+66, Comstock Public Schools (39030) , LEA District 
+67, Constantine Public School District (75050) , LEA District 
+68, Coopersville Area Public School District (70120) , LEA District 
+69, Corunna Public Schools (78100) , LEA District 
+70, Crawford AuSable Schools (20015) , LEA District 
+71, Crestwood School District (82230) , LEA District 
+72, Croswell-Lexington Community Schools (76080) , LEA District 
+73, Dearborn Heights School District #7 (82040) , LEA District 
+74, Delton Kellogg Schools (08010) , LEA District 
+75, Detroit Public Schools Community District (82015) , LEA District 
+76, DeWitt Public Schools (19010) , LEA District 
+77, Dexter Community School District (81050) , LEA District 
+78, Dowagiac Union School District (14020) , LEA District 
+79, Dundee Community Schools (58050) , LEA District 
+80, Durand Area Schools (78030) , LEA District 
+81, East Grand Rapids Public Schools (41090) , LEA District 
+82, East Jordan Public Schools (15060) , LEA District 
+83, Eaton Rapids Public Schools (23050) , LEA District 
+84, Edwardsburg Public Schools (14030) , LEA District 
+85, Elk Rapids Schools (05060) , LEA District 
+86, Elkton-Pigeon-Bay Port Laker Schools (32050) , LEA District 
+87, Escanaba Area Public Schools (21010) , LEA District 
+88, Essexville-Hampton Public Schools (09050) , LEA District 
+89, Farwell Area Schools (18020) , LEA District 
+90, Fennville Public Schools (03050) , LEA District 
+91, Ferndale Public Schools (63020) , LEA District 
+92, Fitzgerald Public Schools (50090) , LEA District 
+93, Flat Rock Community Schools (82180) , LEA District 
+94, Flushing Community Schools (25120) , LEA District 
+95, Forest Hills Public Schools (41110) , LEA District 
+96, Fowler Public Schools (19070) , LEA District 
+97, Fowlerville Community Schools (47030) , LEA District 
+98, Frankenmuth School District (73190) , LEA District 
+99, Frankfort-Elberta Area Schools (10025) , LEA District 
+100, Fraser Public Schools (50100) , LEA District 
+101, Freeland Community School District (73200) , LEA District 
+102, Fremont Public School District (62040) , LEA District 
+103, Fruitport Community Schools (61080) , LEA District 
+104, Galesburg-Augusta Community Schools (39050) , LEA District 
+105, Garden City Public Schools (82050) , LEA District 
+106, Gaylord Community Schools (69020) , LEA District 
+107, Gibraltar School District (82290) , LEA District 
+108, Gladstone Area Schools (21025) , LEA District 
+109, Gladwin Community Schools (26040) , LEA District 
+110, Glen Lake Community Schools (45010) , LEA District 
+111, Gobles Public School District (80110) , LEA District 
+112, Goodrich Area Schools (25050) , LEA District 
+113, Grand Ledge Public Schools (23060) , LEA District 
+114, Grand Rapids Public Schools (41010) , LEA District 
+115, Grand Traverse Academy (28902) , PSA District 
+116, Grandville Public Schools (41130) , LEA District 
+117, Grant Public School District (62050) , LEA District 
+118, Grass Lake Community Schools (38050) , LEA District 
+119, Greenville Public Schools (59070) , LEA District 
+120, Grosse Ile Township Schools (82300) , LEA District 
+121, Grosse Pointe Public Schools (82055) , LEA District 
+122, Gull Lake Community Schools (39065) , LEA District 
+123, Gwinn Area Community Schools (52040) , LEA District 
+124, Hamilton Community Schools (03100) , LEA District 
+125," Hamtramck, School District of the City of (82060) ", LEA District 
+126, Hancock Public Schools (31010) , LEA District 
+127, Hanover-Horton School District (38100) , LEA District 
+128, Harbor Beach Community Schools (32060) , LEA District 
+129, Harbor Springs School District (24020) , LEA District 
+130, Harper Creek Community Schools (13070) , LEA District 
+131, Harrison Community Schools (18060) , LEA District 
+132, Hartland Consolidated Schools (47060) , LEA District 
+133, Haslett Public Schools (33060) , LEA District 
+134, Hastings Area School District (08030) , LEA District 
+135, Hemlock Public School District (73210) , LEA District 
+136, Hillsdale Community Schools (30020) , LEA District 
+137, Holland City School District (70020) , LEA District 
+138, Holly Area School District (63210) , LEA District 
+139, Holt Public Schools (33070) , LEA District 
+140, Holton Public Schools (61120) , LEA District 
+141, Homer Community School District (13080) , LEA District 
+142, Hopkins Public Schools (03070) , LEA District 
+143, Houghton Lake Community Schools (72020) , LEA District 
+144, Houghton-Portage Township School District (31110) , LEA District 
+145, Hudsonville Public School District (70190) , LEA District 
+146, Huron School District (82340) , LEA District 
+147, Ida Public School District (58070) , LEA District 
+148, Imlay City Community Schools (44060) , LEA District 
+149, Ionia Public Schools (34010) , LEA District 
+150, Iron Mountain Public Schools (22010) , LEA District 
+151, Ishpeming Public School District No. 1 (52180) , LEA District 
+152, Ithaca Public Schools (29060) , LEA District 
+153, Jackson Preparatory & Early College (38900) , PSA District 
+154, Jackson Public Schools (38170) , LEA District 
+155, Jefferson Schools (Monroe) (58080) , LEA District 
+156, Jenison Public Schools (70175) , LEA District 
+157, Johannesburg-Lewiston Area Schools (69030) , LEA District 
+158, Jonesville Community Schools (30030) , LEA District 
+159, Kalamazoo Public Schools (39010) , LEA District 
+160, Kalkaska Public Schools (40040) , LEA District 
+161, Kearsley Community School District (25110) , LEA District 
+162, Kelloggsville Public Schools (41140) , LEA District 
+163, Kenowa Hills Public Schools (41145) , LEA District 
+164, Kent City Community Schools (41150) , LEA District 
+165, Kentwood Public Schools (41160) , LEA District 
+166, Kingsley Area Schools (28090) , LEA District 
+167, Kingston Community School District (79080) , LEA District 
+168, Laingsburg Community Schools (78040) , LEA District 
+169, Lake City Area School District (57020) , LEA District 
+170, Lake Fenton Community Schools (25200) , LEA District 
+171, Lake Orion Community Schools (63230) , LEA District 
+172, Lake Shore Public Schools (Macomb) (50120) , LEA District 
+173, Lakeshore School District (Berrien) (11030) , LEA District 
+174, Lakeview Community Schools (Montcalm) (59090) , LEA District 
+175, Lakeview Public Schools (Macomb) (50130) , LEA District 
+176, LakeVille Community School District (25280) , LEA District 
+177, Lakewood Public Schools (34090) , LEA District 
+178, Lamphere Public Schools (63280) , LEA District 
+179, L'Anse Creuse Public Schools (50140) , LEA District 
+180, Lansing Public School District (33020) , LEA District 
+181, Lapeer Community Schools (44010) , LEA District 
+182, Lawton Community School District (80140) , LEA District 
+183, Leland Public School District (45020) , LEA District 
+184, Leslie Public Schools (33100) , LEA District 
+185, Lighthouse Connections Academy (63939) , PSA District 
+186, Lincoln Consolidated School District (81070) , LEA District 
+187, Linden Community Schools (25250) , LEA District 
+188, Lowell Area Schools (41170) , LEA District 
+189, Ludington Area School District (53040) , LEA District 
+190, Madison School District (Lenawee) (46090) , LEA District 
+191, Mancelona Public Schools (05070) , LEA District 
+192, Manchester Community Schools (81080) , LEA District 
+193, Manistee Area Public Schools (51070) , LEA District 
+194, Manistique Area Schools (77010) , LEA District 
+195, Marcellus Community Schools (14050) , LEA District 
+196, Marlette Community Schools (76140) , LEA District 
+197, Marquette Area Public Schools (52170) , LEA District 
+198, Marshall Public Schools (13110) , LEA District 
+199, Marysville Public Schools (74100) , LEA District 
+200, Mason Consolidated Schools (Monroe) (58090) , LEA District 
+201, Mason County Central Schools (53010) , LEA District 
+202, Mason Public Schools (Ingham) (33130) , LEA District 
+203, McBain Rural Agricultural Schools (57030) , LEA District 
+204, Melvindale-Northern Allen Park Schools (82045) , LEA District 
+205, Memphis Community Schools (74120) , LEA District 
+206, Menominee Area Public Schools (55100) , LEA District 
+207, Meridian Public Schools (56050) , LEA District 
+208, Michigan Center School District (38120) , LEA District 
+209, Michigan Connections Academy (33911) , PSA District 
+210, Michigan Great Lakes Virtual Academy (51905) , PSA District 
+211, Michigan International Prep School (19900) , PSA District 
+212, Michigan Virtual Charter Academy (41925) , PSA District 
+213, Milan Area Schools (81100) , LEA District 
+214, Millington Community Schools (79100) , LEA District 
+215, Mona Shores Public School District (61060) , LEA District 
+216, Monroe Public Schools (58010) , LEA District 
+217, Montague Area Public Schools (61180) , LEA District 
+218, Montrose Community Schools (25260) , LEA District 
+219, Morley Stanwood Community Schools (54040) , LEA District 
+220, Mt. Pleasant City School District (37010) , LEA District 
+221, Napoleon Community Schools (38130) , LEA District 
+222, Negaunee Public Schools (52090) , LEA District 
+223, New Buffalo Area Schools (11200) , LEA District 
+224, New Haven Community Schools (50170) , LEA District 
+225, New Lothrop Area Public Schools (78070) , LEA District 
+226, Newaygo Public School District (62070) , LEA District 
+227, NICE Community School District (52015) , LEA District 
+228, Niles Community Schools (11300) , LEA District 
+229, North Branch Area Schools (44090) , LEA District 
+230, North Central Area Schools (55115) , LEA District 
+231, North Muskegon Public Schools (61230) , LEA District 
+232, Northville Public Schools (82390) , LEA District 
+233, Northwest Community Schools (38140) , LEA District 
+234, Novi Community School District (63100) , LEA District 
+235, Oakridge Public Schools (61065) , LEA District 
+236, Okemos Public Schools (33170) , LEA District 
+237, Olivet Community Schools (23080) , LEA District 
+238, Onsted Community Schools (46110) , LEA District 
+239, Orchard View Schools (61190) , LEA District 
+240, Oscoda Area Schools (35010) , LEA District 
+241, Otsego Public Schools (03020) , LEA District 
+242, Ovid-Elsie Area Schools (19120) , LEA District 
+243, Owosso Public Schools (78110) , LEA District 
+244, Parchment School District (39130) , LEA District 
+245, Paw Paw Public School District (80160) , LEA District 
+246, Pennfield Schools (13120) , LEA District 
+247, Pentwater Public School District (64070) , LEA District 
+248, Perry Public Schools (78080) , LEA District 
+249, Pewamo-Westphalia Community Schools (19125) , LEA District 
+250, Pinconning Area Schools (09090) , LEA District 
+251, Plainwell Community Schools (03010) , LEA District 
+252, Port Huron Area School District (74010) , LEA District 
+253, Portland Public Schools (34110) , LEA District 
+254," Public Schools of Calumet, Laurium & Keweenaw (31030) ", LEA District 
+255, Public Schools of Petoskey (24070) , LEA District 
+256, Quincy Community Schools (12040) , LEA District 
+257, Ravenna Public Schools (61210) , LEA District 
+258, Reed City Area Public Schools (67060) , LEA District 
+259, Reese Public Schools (79110) , LEA District 
+260, Reeths-Puffer Schools (61220) , LEA District 
+261, Richmond Community Schools (50180) , LEA District 
+262, Riverview Community School District (82400) , LEA District 
+263, Rockford Public Schools (41210) , LEA District 
+264, Roscommon Area Public Schools (72010) , LEA District 
+265, Royal Oak Schools (63040) , LEA District 
+266, Rudyard Area Schools (17110) , LEA District 
+267, Saginaw Township Community Schools (73040) , LEA District 
+268," Saginaw, School District of the City of (73010) ", LEA District 
+269, Sand Creek Community Schools (46130) , LEA District 
+270, Sandusky Community School District (76210) , LEA District 
+271, Saranac Community Schools (34120) , LEA District 
+272, Saugatuck Public Schools (03080) , LEA District 
+273, Sault Ste. Marie Area Schools (17010) , LEA District 
+274, Schoolcraft Community Schools (39160) , LEA District 
+275, Shepherd Public Schools (37060) , LEA District 
+276, South Haven Public Schools (80010) , LEA District 
+277, South Redford School District (82140) , LEA District 
+278, Southgate Community School District (82405) , LEA District 
+279, Sparta Area Schools (41240) , LEA District 
+280, Spring Lake Public Schools (70300) , LEA District 
+281, St. Charles Community Schools (73240) , LEA District 
+282, St. Ignace Area Schools (49010) , LEA District 
+283, St. Johns Public Schools (19140) , LEA District 
+284, St. Joseph Public Schools (11020) , LEA District 
+285, St. Louis Public Schools (29100) , LEA District 
+286, Standish-Sterling Community Schools (06050) , LEA District 
+287, Star International Academy (82941) , PSA District 
+288, Stockbridge Community Schools (33200) , LEA District 
+289, Sturgis Public Schools (75010) , LEA District 
+290, Swan Valley School District (73255) , LEA District 
+291, Tawas Area Schools (35030) , LEA District 
+292, Taylor School District (82150) , LEA District 
+293, Tecumseh Public Schools (46140) , LEA District 
+294, Three Rivers Community Schools (75080) , LEA District 
+295, Traverse City Area Public Schools (28010) , LEA District 
+296, Trenton Public Schools (82155) , LEA District 
+297, Tri County Area Schools (59080) , LEA District 
+298, Troy School District (63150) , LEA District 
+299, Ubly Community Schools (32170) , LEA District 
+300, Unionville-Sebewaing Area S.D. (79145) , LEA District 
+301, Van Buren Public Schools (82430) , LEA District 
+302, Vicksburg Community Schools (39170) , LEA District 
+303, Warren Consolidated Schools (50230) , LEA District 
+304, Warren Woods Public Schools (50240) , LEA District 
+305, Waterford School District (63300) , LEA District 
+306, Watervliet School District (11320) , LEA District 
+307, Waverly Community Schools (33215) , LEA District 
+308, Wayland Union Schools (03040) , LEA District 
+309, Wayne-Westland Community School District (82160) , LEA District 
+310, West Bloomfield School District (63160) , LEA District 
+311, West Branch-Rose City Area Schools (65045) , LEA District 
+312, West Iron County Public Schools (36025) , LEA District 
+313, West MI Academy of Environmental Science (41904) , PSA District 
+314, West Ottawa Public School District (70070) , LEA District 
+315, Western School District (38010) , LEA District 
+316, Whiteford Agricultural School District of the Counties of Lenawee and Monroe (58110) , LEA District 
+317, Whitehall District Schools (61240) , LEA District 
+318, Whitmore Lake Public School District (81140) , LEA District 
+319, Williamston Community Schools (33230) , LEA District 
+320, Wyoming Public Schools (41026) , LEA District 
+321, Yale Public Schools (74130) , LEA District 
+322, Zeeland Public Schools (70350) , LEA District 
