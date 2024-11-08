@@ -8,7 +8,7 @@ As I begin to analyze the data, I am hypothesizing that the lower student-to-tea
 * Query Results
 Tables are just the first 10. I could have used LIMIT 10 on the queries to do this but I wanted all data.
 1) ![alt text](image-1.png)
-2) ![alt text](image-3.png)
-3) ![alt text](image-4.png)
-4) ![alt text](image-5.png)
-5) ![alt text](image-6.png)
+2) ![alt text](image-2.png)
+3) ![alt text](image-3.png)
+4) ![alt text](image-4.png)
+5) ![alt text](image-5.png)
