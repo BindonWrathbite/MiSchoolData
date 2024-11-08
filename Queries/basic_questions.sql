@@ -1,4 +1,4 @@
---Which Michigan districts have the best(lowest) student to teacher ration?
+--1) Which Michigan districts have the best(lowest) student to teacher ration?
 SELECT
     ssc.loc_id,
     districts.district_name,
@@ -12,7 +12,7 @@ FROM
 ORDER BY
     students_per_teacher ASC
 
---Which districts have the best graduation rates (high) and drop-out rates(low) over four(4) years?
+--2) Which districts have the best graduation rates (high) and drop-out rates(low) over four(4) years?
 SELECT
     districts.loc_id,
     districts.district_name,
@@ -26,7 +26,7 @@ ORDER BY
     four_year_grad_rate DESC,
     four_year_dropout_rate ASC
 
---Which districts have the best MSTEP averages
+--3) Which districts have the best MSTEP averages
 SELECT
     districts.loc_id,
     districts.district_name,
@@ -44,7 +44,7 @@ GROUP BY
 ORDER BY
     average_mstep_scores DESC
 
---Which districts have the best SAT scores?
+--4) Which districts have the best SAT scores?
 SELECT
     districts.loc_id,
     districts.district_name,
@@ -56,7 +56,7 @@ FROM
 ORDER BY
     testing_data.sat_benchmark DESC
 
---Best for all tests?
+--5) Best for all tests?
 SELECT
     districts.loc_id,
     districts.district_name,
