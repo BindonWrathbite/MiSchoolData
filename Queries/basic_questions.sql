@@ -26,3 +26,53 @@ ORDER BY
     four_year_grad_rate DESC,
     four_year_dropout_rate ASC
 
+--Which districts have the best MSTEP averages
+SELECT
+    districts.loc_id,
+    districts.district_name,
+    SUM(
+        testing_data.mstep_ela +
+        testing_data.mstep_math +
+        testing_data.mstep_science +
+        testing_data.mstep_ss)/4 AS average_mstep_scores
+FROM
+    districts
+    INNER JOIN testing_data
+    ON districts.loc_id = testing_data.loc_id
+GROUP BY 
+    districts.loc_id
+ORDER BY
+    average_mstep_scores DESC
+
+--Which districts have the best SAT scores?
+SELECT
+    districts.loc_id,
+    districts.district_name,
+    testing_data.sat_benchmark
+FROM
+    districts
+    INNER JOIN testing_data
+    ON districts.loc_id = testing_data.loc_id
+ORDER BY
+    testing_data.sat_benchmark DESC
+
+--Best for all tests?
+SELECT
+    districts.loc_id,
+    districts.district_name,
+    SUM(
+        testing_data.mstep_ela +
+        testing_data.mstep_math +
+        testing_data.mstep_science +
+        testing_data.mstep_ss)/4 AS average_mstep_scores,
+    testing_data.sat_benchmark
+FROM
+    districts
+    INNER JOIN testing_data
+    ON districts.loc_id = testing_data.loc_id
+GROUP BY 
+    districts.loc_id,
+    testing_data.sat_benchmark
+ORDER BY
+    average_mstep_scores DESC,
+    testing_data.sat_benchmark DESC
